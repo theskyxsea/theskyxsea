@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @theskyxsea aka 'Akash'
 - 👀 I’m interested in SDLC
-- 🥳 I'm pretty much good in Python3
-- 💞️ I’m looking to collaborate on python related work
+- 🥳 I'm pretty much good in Python3 and SQL
 - 📫 You can reach me via theskyxsea@gmail.com
 - 💣Learning Java after Python == theskyxsea💥
 
